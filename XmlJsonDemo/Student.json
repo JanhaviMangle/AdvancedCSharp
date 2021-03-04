@@ -1,0 +1,23 @@
+﻿{"students":[
+  {
+   "name":"john",
+   "age":"23",
+   "city":"Akola"
+
+
+  },
+  {
+     "name":"jonny",
+   "age":"26",
+   "city":"Benguluru"
+  },
+
+  {
+      "name":"jeenie",
+   "age":"30",
+   "city":"Benglore"
+  }
+
+]
+
+}

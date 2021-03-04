@@ -1,0 +1,10 @@
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\bin\Debug\XmlJsonDemo.exe.config
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\bin\Debug\XmlJsonDemo.exe
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\bin\Debug\XmlJsonDemo.pdb
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\obj\Debug\XmlJsonDemo.csprojAssemblyReference.cache
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\obj\Debug\XmlJsonDemo.csproj.CoreCompileInputs.cache
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\obj\Debug\XmlJsonDemo.csproj.CopyComplete
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\obj\Debug\XmlJsonDemo.exe
+C:\Training\c sharp\AdvancedCSharp\XmlJsonDemo\obj\Debug\XmlJsonDemo.pdb
